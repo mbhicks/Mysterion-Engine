@@ -1,0 +1,56 @@
+﻿Build started 4/23/2016 11:05:35 PM.
+     1>Project "C:\Users\Justin\Documents\Visual Studio 2015\Projects\MysterionEngine\MysterionEngine\MysterionEngine.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\MysterionEngine.pdb" /Gd /TP /analyze- /errorReport:prompt InputService.cpp RenderService.cpp
+         RenderService.cpp
+         InputService.cpp
+         Generating Code...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\Lib.exe /OUT:"C:\Users\Justin\Documents\Visual Studio 2015\Projects\MysterionEngine\Debug\MysterionEngine.lib" /NOLOGO Debug\AnimationComponent.obj
+         Debug\AnimSprite.obj
+         Debug\Audio.obj
+         Debug\BasicRenderComponent.obj
+         Debug\Component.obj
+         Debug\CorrectionComponent.obj
+         Debug\CorrectionService.obj
+         Debug\FontSprite.obj
+         Debug\InputComponent.obj
+         Debug\InputService.obj
+         Debug\InputSystem.obj
+         Debug\Main.obj
+         Debug\ProMath.obj
+         Debug\MovementComponent.obj
+         Debug\AnimationService.obj
+         Debug\Music.obj
+         Debug\MysterionEngine.obj
+         Debug\Object.obj
+         Debug\ObjectManager.obj
+         Debug\ObserverManager.obj
+         Debug\RenderComponent.obj
+         Debug\RenderService.obj
+         Debug\RenderSystem.obj
+         Debug\ResourceManager.obj
+         Debug\Service.obj
+         Debug\ServiceManager.obj
+         Debug\Sprite.obj
+         Debug\SpriteAnimationComponent.obj
+         Debug\StartUpParams.obj
+         Debug\SystemLocator.obj
+         Debug\Texture.obj
+         Debug\ticpp.obj
+         Debug\tinystr.obj
+         Debug\tinyxml.obj
+         Debug\tinyxmlerror.obj
+         Debug\tinyxmlparser.obj
+         Debug\UpdateComponent.obj
+         Debug\UpdateService.obj
+         Debug\ValueAnimationComponent.obj
+         Debug\Vector3.obj
+         Debug\WindowSystem.obj
+         MysterionEngine.vcxproj -> C:\Users\Justin\Documents\Visual Studio 2015\Projects\MysterionEngine\Debug\MysterionEngine.lib
+     1>Done Building Project "C:\Users\Justin\Documents\Visual Studio 2015\Projects\MysterionEngine\MysterionEngine\MysterionEngine.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.85
